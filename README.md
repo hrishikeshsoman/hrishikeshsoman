@@ -17,7 +17,7 @@ Node.js · Express.js · Redis · Nginx · Postgres
 Docker · Kubernetes · Terraform · AWS · CI/CD Pipelines · Linux · Cloudflare · Sentry · Grafana  
 
 ### **Programming Languages & Developer Tooling**
-TypeScript · JavaScript · Go · Rust · Bash · Git · GitHub · GitLab · NPM · Yarn · Webpack · Vite · Figma  
+TypeScript · JavaScript · Go · Rust · C++ · Bash · Git · GitHub · GitLab · NPM · Yarn · Webpack · Vite · Figma  
 
 ### **Testing & Quality Assurance**
 Jest · React Testing Library · Playwright · Mocha · Chai · Enzyme  
