@@ -3,7 +3,7 @@
 ### 💻 Senior Software Engineer | Full-Stack Developer | Berlin, Germany
 
 I’m a **seasoned full-stack engineer** with over **a decade of experience** building large-scale, high-performance web applications.  
-While I have deep expertise in JavaScript and TypeScript, I also have experience with C++, and I enjoy diving into other languages like Rust and Go as well. I love picking up new technologies to solve interesting problems and broaden my skill set.
+While I have deep expertise in JavaScript, TypeScript, and Python, I also have experience with C++, and I enjoy diving into other languages like Rust and Go as well. I love picking up new technologies to solve interesting problems and broaden my skill set.
 
 ## 🛠️ Technical Skills
 
