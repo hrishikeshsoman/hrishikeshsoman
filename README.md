@@ -29,7 +29,7 @@ Technical Ownership · Ambiguity Resolution & Decision-Making · Software Design
 
 ## 🌐 Connect With Me
 📫 **Email:** [hrishikeshsoman3@gmail.com](mailto:hrishikeshsoman3@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/hrishikeshsoman](https://linkedin.com/in/hrishikeshsoman)  
+💼 **LinkedIn:** [linkedin.com/in/hrishikeshsoman](https://linkedin.com/in/hrishikeshsoman3)  
 🌍 **Portfolio:** [hrishikeshsoman.com](https://hrishikeshsoman.com)  
 📍 **Location:** Berlin, Germany  
 
