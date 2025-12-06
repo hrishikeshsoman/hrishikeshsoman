@@ -35,4 +35,4 @@ Technical Ownership · Ambiguity Resolution & Decision-Making · Software Design
 
 ---
 
-⭐️ “What one fool can do, another can.” — Silvanus P. Thompson, Calculus Made Easy ⭐️ 
+⭐️ “What one fool can do, another can.” — Greek proverb from Calculus Made Easy by Silvanus P. Thompson ⭐️ 
