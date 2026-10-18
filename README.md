@@ -1,38 +1,37 @@
-# 👋 Hi, I'm Hrishikesh Soman
+# Hey, I’m Hrishikesh 👋
 
-### 💻 Senior Software Engineer | Full-Stack Developer | Berlin, Germany
+### I build software, ask questions, and occasionally overthink both.
 
-I’m a **seasoned full-stack engineer** with over **a decade of experience** building large-scale, high-performance web applications.  
-While I have deep expertise in JavaScript and TypeScript, I also have experience with C++, and I enjoy diving into other languages like Rust/Python. I love picking up new technologies to solve interesting problems and broaden my skill set.
+I’m a software engineer with 11+ years of building for the web. Frontends, backend services, infrastructure—I like knowing how the whole thing works.
 
-## 🛠️ Technical Skills
+JavaScript and TypeScript are my home turf. React, Next.js, and Node.js feature heavily, but I’m comfortable following a problem wherever it goes. Sometimes that means a database query. Sometimes it means figuring out why a perfectly reasonable application is having a terrible day in production.
 
-### **Frontend Ecosystem**
-React · Next.js · Vue.js · Redux · Redux Toolkit · Zustand · Nx · HTML · CSS · SCSS · SASS  
+I ask **“why do we need this?”** a lot. Tools, abstractions, architectural patterns—all useful, all expected to earn their place.
 
-### **Backend & API Development**
-Node.js · Express.js · Redis · Nginx · Postgres  
+Previously at **Delivery Hero in Berlin**, building platforms used across 60+ countries. Now based in **Kerala, India**.
 
-### **Cloud, DevOps & Infrastructure**
-Docker · Kubernetes · Terraform · AWS · CI/CD Pipelines · Linux · Cloudflare · Sentry · Grafana  
+## My usual toolkit 🛠️
 
-### **Programming Languages & Developer Tooling**
-TypeScript · JavaScript · Python · Rust · C++ · Bash · Git · GitHub · GitLab · NPM · Yarn · Webpack · Vite · Figma  
+- **Frontend:** React, Next.js, Vue.js, Redux Toolkit, Zustand, Nx, HTML & CSS
+- **Backend:** Node.js, Express, PostgreSQL, Redis, Nginx
+- **Infrastructure:** Docker, Kubernetes, Terraform, AWS, Linux, Cloudflare, CI/CD
+- **Testing & observability:** Jest, React Testing Library, Playwright, Sentry, Grafana
+- **Languages:** Mostly TypeScript and JavaScript, with detours into Python and Rust.
 
-### **Testing & Quality Assurance**
-Jest · React Testing Library · Playwright · Mocha · Chai · Enzyme  
+## Beyond the stack
 
-### **Professional Practices**
-Technical Ownership · Ambiguity Resolution & Decision-Making · Software Design Patterns · SDLC · Code Review · Developer Tooling · Communication · Scrum & Agile  
+I enjoy taking complicated things apart until they make sense—and explaining them without making them sound more complicated again.
 
----
+These days, I’m also exploring what it takes to build a software business. Finding a problem worth solving is turning out to be at least as interesting as writing the code.
 
-## 🌐 Connect With Me
-📫 **Email:** [hrishikeshsoman3@gmail.com](mailto:hrishikeshsoman3@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/hrishikeshsoman](https://linkedin.com/in/hrishikeshsoman3)  
-🌍 **Portfolio:** [hrishikeshsoman.com](https://hrishikeshsoman.com)  
-📍 **Location:** Berlin, Germany  
+Strong opinions, plenty of questions, happy to change my mind when the evidence does.
+
+## Elsewhere 🌍
+
+[Portfolio](https://hrishikeshsoman.com) · [LinkedIn](https://linkedin.com/in/hrishikeshsoman3) · [Email](mailto:hrishikeshsoman3@gmail.com)
 
 ---
 
-⭐️ “What one fool can do, another can.” — Greek proverb from Calculus Made Easy by Silvanus P. Thompson ⭐️ 
+> “What one fool can do, another can.”
+>
+> — *Calculus Made Easy*. Still a pretty good approach to learning things.
